@@ -87,8 +87,8 @@
         },
         "alias" : {
           "ko" : "녹스",
-          "en" : "",
-          "orilang" : "Nox"
+          "en" : "Nox",
+          "orilang" : ""
         }
       },
       "arcana": "XXII 광대",
@@ -2286,7 +2286,6 @@
     },
     {
       "id" :"999",
-      "img": "https://github.com/kimliya1/character/blob/main/img/Hwacheonglog.png?raw=true",
       "code": "17 gn 11, HC",
       "name": { 
         "truename" :  {
