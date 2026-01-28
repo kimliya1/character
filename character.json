@@ -7,7 +7,6 @@
   "characterlist": [
     {
       "id" :"0",
-      "img": "",
       "code": "21 lr 50, SO",
       "name": { 
         "truename" :  {
@@ -42,7 +41,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "21 ob 50, SS",
       "name": { 
         "truename" :  {
@@ -77,7 +75,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "22 tt 40, NX",
       "name": { 
         "truename" :  {
@@ -113,7 +110,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "13 lr-dli 50, DH",
       "name": { 
         "truename" :  {
@@ -148,7 +144,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "06 lr-dli 50, LV",
       "name": { 
         "truename" :  {
@@ -183,7 +178,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "09 nu 95, DG",
       "name": { 
         "truename" :  {
@@ -218,7 +212,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "06 lr-dli 11, ♥",
       "name": { 
         "truename" :  {
@@ -253,7 +246,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "19 nu 11, ▲",
       "name": { 
         "truename" :  {
@@ -288,7 +280,6 @@
     },
     {
       "id" :"7",
-      "img": "",
       "code": "22 lr-dli 11, ■",
       "name": { 
         "truename" :  {
@@ -323,7 +314,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "04 ke 61-11, GO",
       "name": { 
         "truename" :  {
@@ -357,7 +347,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "16 sg.gn 2, GO",
       "name": { 
         "truename" :  {
@@ -393,7 +382,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "19 bv 40, NC",
       "name": { 
         "truename" :  {
@@ -428,7 +416,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "15 nu 11, DD",
       "name": { 
         "truename" :  {
@@ -462,7 +449,6 @@
     },
     {
       "id" :"999",
-      "img": "https://github.com/kimliya1/character/blob/main/img/Leviathan%20de%20Artemisia%20Flora.png?raw=true",
       "code": "08 ma 61-24, LF",
       "name": { 
         "truename" :  {
@@ -497,7 +483,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "14 nu 32, RS",
       "name": { 
         "truename" :  {
@@ -531,7 +516,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "13 nu 11, RX",
       "name": { 
         "truename" :  {
@@ -565,7 +549,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "01 ad 11, RM",
       "name": { 
         "truename" :  {
@@ -599,7 +582,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "15 nu 11, RD",
       "name": { 
         "truename" :  {
@@ -634,7 +616,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "14 nu 12, RN",
       "name": { 
         "truename" :  {
@@ -668,7 +649,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "12R nu 65-31, LA",
       "name": { 
         "truename" :  {
@@ -703,7 +683,6 @@
     },
     {
       "id" :"999",
-      "img": "https://github.com/kimliya1/character/blob/main/img/Marvel%20Grace.png?raw=true",
       "code": "20 nu 90, MG",
       "name": { 
         "truename" :  {
@@ -737,7 +716,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "04 nu 32, VB",
       "name": { 
         "truename" :  {
@@ -771,7 +749,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "20 nu 92, VL",
       "name": { 
         "truename" :  {
@@ -805,7 +782,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "18 nu 34, BN",
       "name": { 
         "truename" :  {
@@ -839,7 +815,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "08 ch 11, VA",
       "name": { 
         "truename" :  {
@@ -874,7 +849,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "12 ad 11, SL",
       "name": { 
         "truename" :  {
@@ -908,7 +882,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "12 nu 62-11, SL",
       "name": { 
         "truename" :  {
@@ -942,7 +915,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "21 ch 20, SC",
       "name": { 
         "truename" :  {
@@ -977,7 +949,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "16 ch 20, SL",
       "name": { 
         "truename" :  {
@@ -1013,7 +984,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "05 sg 33, SR",
       "name": { 
         "truename" :  {
@@ -1047,7 +1017,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "01 nu 11, AW",
       "name": { 
         "truename" :  {
@@ -1082,7 +1051,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "17 nu 11, AP",
       "name": { 
         "truename" :  {
@@ -1116,7 +1084,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "03 nu 11, AS",
       "name": { 
         "truename" :  {
@@ -1150,7 +1117,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "04 nu 65-31, AA",
       "name": { 
         "truename" :  {
@@ -1185,7 +1151,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "19 tt 66, AT",
       "name": { 
         "truename" :  {
@@ -1219,7 +1184,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "05R nu 32, AS",
       "name": { 
         "truename" :  {
@@ -1253,7 +1217,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "05 nu 11, AA",
       "name": { 
         "truename" :  {
@@ -1287,7 +1250,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "07 nu 20, AJ",
       "name": { 
         "truename" :  {
@@ -1321,7 +1283,6 @@
     },
     {
       "id" :"999",
-      "img": "https://github.com/kimliya1/character/blob/main/img/Alea.png?raw=true",
       "code": "10 nu 11, AL",
       "name": { 
         "truename" :  {
@@ -1355,7 +1316,6 @@
     },
     {
       "id" :"999",
-      "img": "https://github.com/kimliya1/character/blob/main/img/Altan%20Muunohoi.png?raw=true",
       "code": "11 nu 11, AM",
       "name": { 
         "truename" :  {
@@ -1391,7 +1351,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "03 bv 40, YM",
       "name": { 
         "truename" :  {
@@ -1426,7 +1385,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "18 sg.gn 22, YC",
       "name": { 
         "truename" :  {
@@ -1462,7 +1420,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "18 tt 66, EB",
       "name": { 
         "truename" :  {
@@ -1496,7 +1453,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "01 nu 11, WY",
       "name": { 
         "truename" :  {
@@ -1530,7 +1486,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "02 nu 11, WS",
       "name": { 
         "truename" :  {
@@ -1564,7 +1519,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "22 ad 11, IN",
       "name": { 
         "truename" :  {
@@ -1598,7 +1552,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "11 ma.gn 21, YJ",
       "name": { 
         "truename" :  {
@@ -1634,7 +1587,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "14 nu 65-11, AY",
       "name": { 
         "truename" :  {
@@ -1669,7 +1621,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "15 sg.gn 20, JB",
       "name": { 
         "truename" :  {
@@ -1705,7 +1656,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "11R nu 22, JC",
       "name": { 
         "truename" :  {
@@ -1740,7 +1690,6 @@
     },
     {
       "id" :"999",
-      "img": "https://github.com/kimliya1/character/blob/main/img/Zren.png?raw=true",
       "code": "10 nu 11, ZR",
       "name": { 
         "truename" :  {
@@ -1774,7 +1723,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "07 ad 11, CC",
       "name": { 
         "truename" :  {
@@ -1808,7 +1756,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "09 nu 11, CW",
       "name": { 
         "truename" :  {
@@ -1842,7 +1789,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "18 tt 66, CR",
       "name": { 
         "truename" :  {
@@ -1876,7 +1822,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "05 ad 11, CU",
       "name": { 
         "truename" :  {
@@ -1910,7 +1855,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "13 tt 66, TS",
       "name": { 
         "truename" :  {
@@ -1944,7 +1888,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "17 ad 11, TF",
       "name": { 
         "truename" :  {
@@ -1978,7 +1921,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "04 ad 11, TI",
       "name": { 
         "truename" :  {
@@ -2012,7 +1954,6 @@
     },
     {
       "id" :"999",
-      "img": "https://github.com/kimliya1/character/blob/main/img/Tidana%20Crocea.png?raw=true",
       "code": "14R nu 62-11, tc",
       "name": { 
         "truename" :  {
@@ -2046,7 +1987,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "10 nu 93, FA",
       "name": { 
         "truename" :  {
@@ -2080,7 +2020,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "18 nu 93, AG",
       "name": { 
         "truename" :  {
@@ -2114,7 +2053,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "11 bv 61-40 HN",
       "name": { 
         "truename" :  {
@@ -2148,7 +2086,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "11 bv 61-40 HN",
       "name": { 
         "truename" :  {
@@ -2182,7 +2119,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "19 tt 66, HM",
       "name": { 
         "truename" :  {
@@ -2216,7 +2152,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "03 nu 11, HH",
       "name": { 
         "truename" :  {
@@ -2251,7 +2186,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "13 gn 90, HW",
       "name": { 
         "truename" :  {
@@ -2321,7 +2255,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "12 tt 66, HS",
       "name": { 
         "truename" :  {
@@ -2356,7 +2289,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "01 nu 11, DJ",
       "name": { 
         "truename" :  {
@@ -2390,7 +2322,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "02 nu 11, JN",
       "name": { 
         "truename" :  {
@@ -2424,7 +2355,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "06 gn 19, LM",
       "name": { 
         "truename" :  {
@@ -2460,7 +2390,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "18 tt 40, ☽",
       "name": { 
         "truename" :  {
@@ -2495,7 +2424,6 @@
     },
     {
       "id" :"8",
-      "img": "",
       "code": "02 ex 11, AD",
       "name": { 
         "truename" :  {
@@ -2530,7 +2458,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "14 nu 11, HL",
       "name": { 
         "truename" :  {
@@ -2565,7 +2492,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "06 nu 11, DG",
       "name": { 
         "truename" :  {
@@ -2600,7 +2526,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "04R nu 11, BH",
       "name": { 
         "truename" :  {
@@ -2635,7 +2560,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "08 nu 11, HJ",
       "name": { 
         "truename" :  {
@@ -2669,7 +2593,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "08R nu 95, AH",
       "name": { 
         "truename" :  {
@@ -2703,7 +2626,6 @@
     },
     {
       "id" :"999",
-      "img": "",
       "code": "13 sg 22, CG",
       "name": { 
         "truename" :  {
@@ -2737,7 +2659,6 @@
     },
     {
       "id" :"1",
-      "img": "",
       "code": "20R lr 50, SO",
       "name": { 
         "truename" :  {
@@ -2772,7 +2693,6 @@
     },
     {
       "id" :"2",
-      "img": "",
       "code": "16 lr 50, SO",
       "name": { 
         "truename" :  {
@@ -2807,7 +2727,6 @@
     },
     {
       "id" :"3",
-      "img": "",
       "code": "17 lr 50, SO",
       "name": { 
         "truename" :  {
@@ -2842,7 +2761,6 @@
     },
     {
       "id" :"4",
-      "img": "",
       "code": "06 lr 50, SO",
       "name": { 
         "truename" :  {
@@ -2877,7 +2795,6 @@
     },
     {
       "id" :"5",
-      "img": "",
       "code": "09R lr 50, SO",
       "name": { 
         "truename" :  {
@@ -2912,7 +2829,6 @@
     },
     {
       "id" :"6",
-      "img": "",
       "code": "09 lr 50, SO",
       "name": { 
         "truename" :  {
@@ -2947,7 +2863,6 @@
     },
     {
       "id" :"",
-      "img": "",
       "code": "",
       "name": { 
         "truename" :  {
@@ -2981,7 +2896,6 @@
     },
     {
       "id" :"",
-      "img": "",
       "code": "",
       "name": { 
         "truename" :  {
@@ -3015,7 +2929,6 @@
     },
     {
       "id" :"",
-      "img": "",
       "code": "",
       "name": { 
         "truename" :  {
@@ -3049,7 +2962,6 @@
     },
     {
       "id" :"",
-      "img": "",
       "code": "",
       "name": { 
         "truename" :  {
@@ -3084,7 +2996,6 @@
     },
     {
       "id" :"",
-      "img": "",
       "code": "",
       "name": { 
         "truename" :  {
