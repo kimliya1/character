@@ -65,8 +65,7 @@
       "job": [ "-" ],
       "residence": "우주",
       "relationship" : { 
-        "은하계"  : [ "" ],
-        "기타" : [  ]
+        "은하계"  : [ "" ]
       },
       "url" : "https://liya-universe.tistory.com/179"
     },
@@ -101,8 +100,7 @@
       "residence": "카페 '타르타로스'",
       "relationship" : { 
         "카오스": [ "녹스", "☽" ],
-        "카페 '타르타로스'" : [ "" ],
-        "기타" : [  ]
+        "카페 '타르타로스'" : [ "" ]
       },
       "url" : "https://liya-universe.tistory.com/113"
     },
@@ -136,8 +134,7 @@
       "job": [ "-" ],
       "residence": "-",
       "relationship" : { 
-        "죽음사랑환상" : [ "■", "죽음", "사랑",  "♥" ],
-        "기타" : [  ]
+        "죽음사랑환상" : [ "■", "죽음", "사랑",  "♥" ]
       },
       "url" : "https://liya-universe.tistory.com/61"
     },
@@ -171,8 +168,7 @@
       "job": [ "-" ],
       "residence": "-",
       "relationship" : { 
-        "죽음사랑환상" : [ "■", "죽음", "사랑",  "♥" ],
-        "기타" : [  ]
+        "죽음사랑환상" : [ "■", "죽음", "사랑",  "♥" ]
       },
       "url" : "https://liya-universe.tistory.com/62"
     },
@@ -206,8 +202,7 @@
       "job": [ "예술가", "모델" ],
       "residence": "그레이 가 저택",
       "relationship" : { 
-        "도리안 일가" : [ "도리안 그레이", "바실리사 홀워드" ] ,
-        "기타" : [  ]
+        "도리안 일가" : [ "도리안 그레이", "바실리사 홀워드" ] 
       },
       "url" : "https://liya-universe.tistory.com/74"
     },
@@ -241,8 +236,7 @@
       "job": [ "고등학생" ],
       "residence": "-",
       "relationship" : { 
-        "죽음사랑환상" : [ "■", "죽음", "사랑", "♥" ] ,
-        "기타" : [  ]
+        "죽음사랑환상" : [ "■", "죽음", "사랑", "♥" ] 
       },
       "url" : "https://liya-universe.tistory.com/76"
     },
@@ -276,8 +270,7 @@
       "job": [ "경찰" ],
       "residence": "-",
       "relationship" : { 
-        "이능력특수반" : [ "" ] ,
-        "기타" : [  ]
+        "이능력특수반" : [ "" ] 
       },
       "url" : ""
     },
@@ -381,8 +374,7 @@
       "residence": "귀곡성 본성",
       "relationship" : { 
         "귀곡성" : [ "" ], 
-        "귀곡성 4인방" : [ "" ] ,
-        "기타" : [  ]
+        "귀곡성 4인방" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/77"
     },
@@ -416,8 +408,7 @@
       "job": [ "행운과 부의 신" ],
       "residence": "황금의 대저택",
       "relationship" : { 
-        "유해교반" : [ "마라 2세", "나시바 크리타" ] ,
-        "기타" : [  ]
+        "유해교반" : [ "마라 2세", "나시바 크리타" ] 
       },
       "url" : "https://liya-universe.tistory.com/82"
     },
@@ -485,8 +476,7 @@
       "job": [ "가문의 후계자", "상단주" ],
       "residence": "플로라 가문 저택",
       "relationship" : { 
-        "플로라 가문" : [ "아르테미시아 데 멜라니아 플로라", "레비아타인 데 아르테미시아 플로라" ] ,
-        "기타" : [  ]
+        "플로라 가문" : [ "아르테미시아 데 멜라니아 플로라", "레비아타인 데 아르테미시아 플로라" ] 
       },
       "url" : "https://liya-universe.tistory.com/68"
     },
@@ -622,8 +612,7 @@
       "job": [ "골동품상" ],
       "residence": "매화가 가득한 저택",
       "relationship" : { 
-        "매화 저택" : [ "" ] ,
-        "기타" : [  ]
+        "매화 저택" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/115"
     },
@@ -691,8 +680,7 @@
       "job": [ "경호원" ],
       "residence": "",
       "relationship" : { 
-        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ],
-        "기타" : [  ]
+        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ]
       },
       "url" : "https://liya-universe.tistory.com/140"
     },
@@ -862,8 +850,7 @@
       "job": [ "해군 중장" ],
       "residence": "해군 본부 숙소",
       "relationship" : { 
-        "해군" : [ "" ] ,
-        "기타" : [  ]
+        "해군" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/103"
     },
@@ -965,8 +952,7 @@
       "job": [ "안드로메다 해적단의 선장" ],
       "residence": "안드로메다 해적선",
       "relationship" : { 
-        "크라켄의 조각" : [ "" ] ,
-        "기타" : [  ]
+        "크라켄의 조각" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/71"
     },
@@ -1001,8 +987,7 @@
       "residence": "해군 본부 숙소",
       "relationship" : { 
         "크라켄의 조각" : [ "" ], 
-        "해군" : [ "" ] ,
-        "기타" : [  ]
+        "해군" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/118"
     },
@@ -1070,8 +1055,7 @@
       "job": [ "마법사", "학생" ],
       "residence": "",
       "relationship" : { 
-        "시그니페르 아카데미" : [ "" ] ,
-        "기타" : [  ]
+        "시그니페르 아카데미" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/152"
     },
@@ -1173,8 +1157,7 @@
       "job": [ "시나리오 작가" ],
       "residence": "",
       "relationship" : { 
-        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ],
-        "기타" : [  ]
+        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ]
       },
       "url" : "https://liya-universe.tistory.com/141"
     },
@@ -1379,8 +1362,7 @@
       "residence": "구원회 68팀 아지트",
       "relationship" : { 
         "구원회" : [ "" ], 
-        "구원회 68팀" : [ "" ] ,
-        "기타" : [  ]
+        "구원회 68팀" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/84"
     },
@@ -1414,8 +1396,7 @@
       "job": [ "" ],
       "residence": "야무나 강",
       "relationship" : { 
-        "야매" : [ "야마", "야미" ] ,
-        "기타" : [  ]
+        "야매" : [ "야마", "야미" ] 
       },
       "url" : "https://liya-universe.tistory.com/63"
     },
@@ -1450,8 +1431,7 @@
       "residence": "귀곡성 본성",
       "relationship" : { 
         "귀곡성" : [ "" ], 
-        "귀곡성 4인방" : [ "" ] ,
-        "기타" : [  ]
+        "귀곡성 4인방" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/65"
     },
@@ -1622,8 +1602,7 @@
       "residence": "구원회 23팀 아지트",
       "relationship" : { 
         "구원회" : [ "" ], 
-        "구원회 23팀" : [ "" ] ,
-        "기타" : [  ]
+        "구원회 23팀" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/83"
     },
@@ -1657,8 +1636,7 @@
       "job": [ "경찰" ],
       "residence": "",
       "relationship" : { 
-        "이능력특수반" : [ "" ] ,
-        "기타" : [  ]
+        "이능력특수반" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/121"
     },
@@ -1693,8 +1671,7 @@
       "residence": "귀곡성 본성",
       "relationship" : { 
         "귀곡성" : [ "" ], 
-        "귀곡성 4인방" : [ "" ] ,
-        "기타" : [  ]
+        "귀곡성 4인방" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/79"
     },
@@ -1728,8 +1705,7 @@
       "job": [ "귀곡성의 조직원" ],
       "residence": "귀곡성 인근 호수",
       "relationship" : { 
-        "귀곡성" : [ "" ] ,
-        "기타" : [  ]
+        "귀곡성" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/150"
     },
@@ -2239,8 +2215,7 @@
       "job": [ "주류 회사 사장" ],
       "residence": "매화가 가득한 저택",
       "relationship" : { 
-        "매화저택" : [ "" ] ,
-        "기타" : [  ]
+        "매화저택" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/138"
     },
@@ -2274,8 +2249,7 @@
       "job": [ "보석상","Inti의 참모" ],
       "residence": "",
       "relationship" : { 
-        "Inti" : [ "" ] ,
-        "기타" : [  ]
+        "Inti" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/123"
     },
@@ -2310,8 +2284,7 @@
       "residence": "구원회 68팀 아지트",
       "relationship" : { 
         "구원회" : [ "" ], 
-        "구원회 68팀" : [ "" ] ,
-        "기타" : [  ]
+        "구원회 68팀" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/85"
     },
@@ -2345,8 +2318,7 @@
       "job": [ "" ],
       "residence": "",
       "relationship" : { 
-        "카페 '타르타로스'" : [ "" ] ,
-        "기타" : [  ]
+        "카페 '타르타로스'" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/106"
     },
@@ -2449,8 +2421,7 @@
       "residence": "귀곡성 본성",
       "relationship" : { 
         "귀곡성" : [ "" ],
-        "귀곡성 4인방" : [ "" ],
-        "기타" : [  ]
+        "귀곡성 4인방" : [ "" ]
       },
       "url" : "https://liya-universe.tistory.com/66"
     },
@@ -2484,8 +2455,7 @@
       "job": [ "" ],
       "residence": "악몽",
       "relationship" : { 
-        "카오스" : [ "녹스", "☽" ] ,
-        "기타" : [  ]
+        "카오스" : [ "녹스", "☽" ] 
       },
       "url" : ""
     },
@@ -2554,8 +2524,7 @@
       "job": [ "꽃집 사장", "기간제 경찰" ],
       "residence": "",
       "relationship" : { 
-        "이능력특수반" : [ "" ] ,
-        "기타" : [  ]
+        "이능력특수반" : [ "" ] 
       },
       "url" : "https://liya-universe.tistory.com/174"
     },
@@ -2589,8 +2558,7 @@
       "job": [ "예술가","모델" ],
       "residence": "그레이 가 저택",
       "relationship" : { 
-        "도리안 일가" : [ "" ] ,
-        "기타" : [  ]
+        "도리안 일가" : [ "" ] 
       },
       "url" : ""
     },
@@ -2624,8 +2592,7 @@
       "job": [ "" ],
       "residence": "그레이 가 저택",
       "relationship" : { 
-        "도리안 일가" : [ "" ] ,
-        "기타" : [  ]
+        "도리안 일가" : [ "" ] 
       },
       "url" : ""
     },
@@ -3073,8 +3040,7 @@
       "job": [ "연옥의 간수" ],
       "residence": "",
       "relationship" : { 
-        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ],
-        "기타" : [  ]
+        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ]
       },
       "url" : ""
     },
@@ -3108,8 +3074,7 @@
       "job": [ "배우" ],
       "residence": "",
       "relationship" : { 
-        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ],
-        "기타" : [  ]
+        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ]
       },
       "url" : ""
     }
