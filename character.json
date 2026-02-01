@@ -73,7 +73,7 @@
       "id" :"999",
       "code": "22 tt 40, NX",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
           "ko" : "",
           "en" : "",
@@ -518,15 +518,15 @@
       "id" :"999",
       "code": "13 nu 11, RX",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "카스트로폴로스" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "카스트로폴로스",
+          "en" : "Castorpollux",
           "orilang" : ""
         }
       },
@@ -759,8 +759,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "보카디오 라우스" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Vocatio Laus",
+          "orilang" : "vocátĭo laus"
         },
         "alias" : {
           "ko" : "",
@@ -895,7 +895,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "세밀리온" ,
-          "en" : "",
+          "en" : "Semillion",
           "orilang" : ""
         },
         "alias" : {
@@ -1165,16 +1165,16 @@
       "id" :"999",
       "code": "19 tt 66, AT",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "아이테르" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
-          "orilang" : ""
+          "ko" : "아이테르",
+          "en" : "Aether",
+          "orilang" : "Αἰθήρ"
         }
       },
       "arcana": "XIX 태양",
@@ -1202,8 +1202,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "아테르 세네스코" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Ater Senesco",
+          "orilang" : "āter senésco"
         },
         "alias" : {
           "ko" : "",
@@ -1373,8 +1373,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "야미" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Yami",
+          "orilang" : "यमुना"
         },
         "alias" : {
           "ko" : "",
@@ -1439,16 +1439,16 @@
       "id" :"999",
       "code": "18 tt 66, EB",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "에레보스" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
-          "orilang" : ""
+          "ko" : "에레보스",
+          "en" : "Erebos",
+          "orilang" : "Έρεβος"
         }
       },
       "arcana": "XVIII 달",
@@ -1510,8 +1510,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "우선아" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Woo Seona",
+          "orilang" : "禹善芽"
         },
         "alias" : {
           "ko" : "",
@@ -1784,7 +1784,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "최우행" ,
-          "en" : "",
+          "en" : "Choe Uhaeng",
           "orilang" : ""
         },
         "alias" : {
@@ -1815,16 +1815,16 @@
       "id" :"999",
       "code": "18 tt 66, CR",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "카론" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
-          "orilang" : ""
+          "ko" : "카론",
+          "en" : "Charon",
+          "orilang" : "Χάρων"
         }
       },
       "arcana": "XVIII 달",
@@ -1883,16 +1883,16 @@
       "id" :"999",
       "code": "13 tt 66, TS",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "타나토스" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
-          "orilang" : ""
+          "ko" : "타나토스",
+          "en" : "Thanatos",
+          "orilang" : "Θάνατος"
         }
       },
       "arcana": "XIII 죽음",
@@ -2155,16 +2155,16 @@
       "id" :"999",
       "code": "19 tt 66, HM",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "헤메라" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
-          "orilang" : ""
+          "ko" : "헤메라",
+          "en" : "Hemera",
+          "orilang" : "Ἡμέρα"
         }
       },
       "arcana": "XIX 태양",
@@ -2292,15 +2292,15 @@
       "id" :"999",
       "code": "12 tt 66, HS",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "히프노스" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "히프노스",
+          "en" : "Hypnos",
           "orilang" : ""
         }
       },
@@ -2432,8 +2432,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "☽" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "☽",
+          "orilang" : "☽"
         },
         "alias" : {
           "ko" : "",
@@ -2466,7 +2466,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "에이드" ,
-          "en" : "",
+          "en" : "Ade",
           "orilang" : ""
         },
         "alias" : {
