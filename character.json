@@ -1,22 +1,18 @@
 {
-  "update" : [
-      {
-        "lastupdate" : "2025/10/01"
-      }
-  ],
   "characterlist": [
     {
       "id" :"0",
       "code": "21 lr 50, SO",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "신에이드 오프타시아",
-          "en" : "",
+          "en" : "Syneido opeutasia",
           "orilang" : "συνείδω ὀπτασία"
         },
         "alias" : {
           "ko" : "첫번째 신에이드 오프타시아",
-          "en" : "",
+          "en" : "Syneido opeutasia",
           "orilang" : "πρώτα συνείδω ὀπτασία"
         }
       },
@@ -43,6 +39,7 @@
       "id" :"999",
       "code": "21 ob 50, SS",
       "name": { 
+        "mainName" : "alias",
         "truename" :  {
           "ko" : "-" ,
           "en" : "",
@@ -77,15 +74,16 @@
       "id" :"999",
       "code": "22 tt 40, NX",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
-          "ko" : "불명" ,
+          "ko" : "",
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
           "ko" : "녹스",
           "en" : "Nox",
-          "orilang" : ""
+          "orilang" : "Νύξ"
         }
       },
       "arcana": "XXII 광대",
@@ -112,10 +110,11 @@
       "id" :"999",
       "code": "13 lr-dli 50, DH",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "죽음" ,
-          "en" : "",
-          "orilang" : "Death"
+          "en" : "Death",
+          "orilang" : ""
         },
         "alias" : {
           "ko" : "",
@@ -146,10 +145,11 @@
       "id" :"999",
       "code": "06 lr-dli 50, LV",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "사랑" ,
-          "en" : "",
-          "orilang" : "Love"
+          "en" : "Love",
+          "orilang" : ""
         },
         "alias" : {
           "ko" : "",
@@ -180,15 +180,16 @@
       "id" :"999",
       "code": "09 nu 95, DG",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "미케네 그레이",
-          "en" : "",
-          "orilang" : "Mycenae Gray"
+          "en" : "Mycenae Gray",
+          "orilang" : ""
         },
         "alias" : {
           "ko" : "도리안 그레이",
-          "en" : "",
-          "orilang" : "Dorian Gray"
+          "en" : "Dorian Gray",
+          "orilang" : ""
         }
       },
       "arcana": "IX 은둔자",
@@ -214,10 +215,11 @@
       "id" :"999",
       "code": "06 lr-dli 11, ♥",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "♥" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "♥",
+          "orilang" : "♥"
         },
         "alias" : {
           "ko" : "",
@@ -248,10 +250,11 @@
       "id" :"999",
       "code": "19 nu 11, ▲",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "▲" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "▲",
+          "orilang" : "▲"
         },
         "alias" : {
           "ko" : "",
@@ -282,10 +285,11 @@
       "id" :"7",
       "code": "22 lr-dli 11, ■",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "■" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "■",
+          "orilang" : "■"
         },
         "alias" : {
           "ko" : "",
@@ -316,9 +320,10 @@
       "id" :"999",
       "code": "04 ke 61-11, GO",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "가히지 아닥스" ,
-          "en" : "",
+          "en" : "Gahiji Addax",
           "orilang" : ""
         },
         "alias" : {
@@ -349,10 +354,11 @@
       "id" :"999",
       "code": "16 sg.gn 2, GO",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "곤영" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Gonyeong",
+          "orilang" : "棍灵"
         },
         "alias" : {
           "ko" : "",
@@ -384,9 +390,10 @@
       "id" :"999",
       "code": "19 bv 40, NC",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "나시바 크리타" ,
-          "en" : "",
+          "en" : "Nashiva Krita",
           "orilang" : ""
         },
         "alias" : {
@@ -418,6 +425,7 @@
       "id" :"999",
       "code": "15 nu 11, DD",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "디세카 디프루토" ,
           "en" : "",
@@ -451,6 +459,7 @@
       "id" :"999",
       "code": "08 ma 61-24, LF",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "레비아타인 데 아르테미시아 플로라" ,
           "en" : "Leviathan de Artemisia Flora",
@@ -485,6 +494,7 @@
       "id" :"999",
       "code": "14 nu 32, RS",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "레툼 프리드리히 듈 스프레마" ,
           "en" : "",
@@ -518,6 +528,7 @@
       "id" :"999",
       "code": "13 nu 11, RX",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "카스트로폴로스" ,
           "en" : "",
@@ -551,6 +562,7 @@
       "id" :"999",
       "code": "01 ad 11, RM",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "루메" ,
           "en" : "",
@@ -584,6 +596,7 @@
       "id" :"999",
       "code": "15 nu 11, RD",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "류단영" ,
           "en" : "",
@@ -618,6 +631,7 @@
       "id" :"999",
       "code": "14 nu 12, RN",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "르네나" ,
           "en" : "",
@@ -651,6 +665,7 @@
       "id" :"999",
       "code": "12R nu 65-31, LA",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "리헬 아센" ,
           "en" : "",
@@ -685,6 +700,7 @@
       "id" :"999",
       "code": "20 nu 90, MG",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "마벨 그레이스" ,
           "en" : "Marvel Grace",
@@ -718,6 +734,7 @@
       "id" :"999",
       "code": "04 nu 32, VB",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "베리아 스도리다 듈 베아투스" ,
           "en" : "",
@@ -751,6 +768,7 @@
       "id" :"999",
       "code": "20 nu 92, VL",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "보카디오 라우스" ,
           "en" : "",
@@ -784,6 +802,7 @@
       "id" :"999",
       "code": "18 nu 34, BN",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "비나리" ,
           "en" : "",
@@ -817,6 +836,7 @@
       "id" :"999",
       "code": "08 ch 11, VA",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "비엘라 알페라츠" ,
           "en" : "",
@@ -851,6 +871,7 @@
       "id" :"999",
       "code": "12 ad 11, SL",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "세미루나" ,
           "en" : "",
@@ -884,6 +905,7 @@
       "id" :"999",
       "code": "12 nu 62-11, SL",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "세밀리온" ,
           "en" : "",
@@ -917,6 +939,7 @@
       "id" :"999",
       "code": "21 ch 20, SC",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "세키" ,
           "en" : "",
@@ -951,6 +974,7 @@
       "id" :"999",
       "code": "16 ch 20, SL",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "슬린" ,
           "en" : "",
@@ -986,6 +1010,7 @@
       "id" :"999",
       "code": "05 sg 33, SR",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "류" ,
           "en" : "",
@@ -1019,6 +1044,7 @@
       "id" :"999",
       "code": "01 nu 11, AW",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "아니마 W 아네모스" ,
           "en" : "",
@@ -1053,6 +1079,7 @@
       "id" :"999",
       "code": "17 nu 11, AP",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "아니마 펜나" ,
           "en" : "",
@@ -1086,6 +1113,7 @@
       "id" :"999",
       "code": "03 nu 11, AS",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "아라키 사쿠라" ,
           "en" : "",
@@ -1119,6 +1147,7 @@
       "id" :"999",
       "code": "04 nu 65-31, AA",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "아렐 아센" ,
           "en" : "",
@@ -1153,6 +1182,7 @@
       "id" :"999",
       "code": "19 tt 66, AT",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "아이테르" ,
           "en" : "",
@@ -1186,6 +1216,7 @@
       "id" :"999",
       "code": "05R nu 32, AS",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "아테르 세네스코" ,
           "en" : "",
@@ -1219,6 +1250,7 @@
       "id" :"999",
       "code": "05 nu 11, AA",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "아페란토스 아가파오" ,
           "en" : "",
@@ -1252,6 +1284,7 @@
       "id" :"999",
       "code": "07 nu 20, AJ",
       "name": { 
+        "mainName" : "alias",
         "truename" :  {
           "ko" : "불명" ,
           "en" : "",
@@ -1285,6 +1318,7 @@
       "id" :"999",
       "code": "10 nu 11, AL",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "알레아" ,
           "en" : "Alea",
@@ -1318,6 +1352,7 @@
       "id" :"999",
       "code": "11 nu 11, AM",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "알탄 모너허이" ,
           "en" : "Altan Muunohoi",
@@ -1353,6 +1388,7 @@
       "id" :"999",
       "code": "03 bv 40, YM",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "야미" ,
           "en" : "",
@@ -1387,13 +1423,14 @@
       "id" :"999",
       "code": "18 sg.gn 22, YC",
       "name": { 
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "야차" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
+          "ko" : "야차",
           "en" : "",
           "orilang" : ""
         }
@@ -1422,6 +1459,7 @@
       "id" :"999",
       "code": "18 tt 66, EB",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "에레보스" ,
           "en" : "",
@@ -1455,6 +1493,7 @@
       "id" :"999",
       "code": "01 nu 11, WY",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "우련아" ,
           "en" : "",
@@ -1488,6 +1527,7 @@
       "id" :"999",
       "code": "02 nu 11, WS",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "우선아" ,
           "en" : "",
@@ -1521,6 +1561,7 @@
       "id" :"999",
       "code": "22 ad 11, IN",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "이니마" ,
           "en" : "",
@@ -1554,6 +1595,7 @@
       "id" :"999",
       "code": "11 ma.gn 21, YJ",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "유지희" ,
           "en" : "",
@@ -1589,6 +1631,7 @@
       "id" :"999",
       "code": "14 nu 65-11, AY",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "이아윤" ,
           "en" : "",
@@ -1623,13 +1666,14 @@
       "id" :"999",
       "code": "15 sg.gn 20, JB",
       "name": { 
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "장산범",
+          "ko" : "",
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
+          "ko" : "장산범",
           "en" : "",
           "orilang" : ""
         }
@@ -1658,6 +1702,7 @@
       "id" :"999",
       "code": "11R nu 22, JC",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "쟈오유첸",
           "en" : "",
@@ -1692,6 +1737,7 @@
       "id" :"999",
       "code": "10 nu 11, ZR",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "즈렌" ,
           "en" : "Zren",
@@ -1725,6 +1771,7 @@
       "id" :"999",
       "code": "07 ad 11, CC",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "차르칸" ,
           "en" : "",
@@ -1758,6 +1805,7 @@
       "id" :"999",
       "code": "09 nu 11, CW",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "최우행" ,
           "en" : "",
@@ -1791,6 +1839,7 @@
       "id" :"999",
       "code": "18 tt 66, CR",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "카론" ,
           "en" : "",
@@ -1824,6 +1873,7 @@
       "id" :"999",
       "code": "05 ad 11, CU",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "코르체" ,
           "en" : "",
@@ -1857,6 +1907,7 @@
       "id" :"999",
       "code": "13 tt 66, TS",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "타나토스" ,
           "en" : "",
@@ -1890,6 +1941,7 @@
       "id" :"999",
       "code": "17 ad 11, TF",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "트레포이" ,
           "en" : "",
@@ -1923,6 +1975,7 @@
       "id" :"999",
       "code": "04 ad 11, TI",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "트리움" ,
           "en" : "",
@@ -1956,6 +2009,7 @@
       "id" :"999",
       "code": "14R nu 62-11, tc",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "티다나 크로세아" ,
           "en" : "Tidana Crocea",
@@ -1989,6 +2043,7 @@
       "id" :"999",
       "code": "10 nu 93, FA",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "플로 아리비테르" ,
           "en" : "",
@@ -2022,6 +2077,7 @@
       "id" :"999",
       "code": "18 nu 93, AG",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "핀스터 아우겐" ,
           "en" : "",
@@ -2055,6 +2111,7 @@
       "id" :"999",
       "code": "11 bv 61-40 HN",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "하누만" ,
           "en" : "",
@@ -2088,6 +2145,7 @@
       "id" :"999",
       "code": "11 bv 61-40 HN",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "하일드 잭" ,
           "en" : "",
@@ -2121,6 +2179,7 @@
       "id" :"999",
       "code": "19 tt 66, HM",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "헤메라" ,
           "en" : "",
@@ -2154,6 +2213,7 @@
       "id" :"999",
       "code": "03 nu 11, HH",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "헤이화" ,
           "en" : "",
@@ -2188,6 +2248,7 @@
       "id" :"999",
       "code": "13 gn 90, HW",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "화" ,
           "en" : "",
@@ -2222,6 +2283,7 @@
       "id" :"999",
       "code": "17 gn 11, HC",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "화청록" ,
           "en" : "Hwacheonglog",
@@ -2257,6 +2319,7 @@
       "id" :"999",
       "code": "12 tt 66, HS",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "히프노스" ,
           "en" : "",
@@ -2291,6 +2354,7 @@
       "id" :"999",
       "code": "01 nu 11, DJ",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "Dr. Jin" ,
           "en" : "",
@@ -2324,6 +2388,7 @@
       "id" :"999",
       "code": "02 nu 11, JN",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "Jin" ,
           "en" : "",
@@ -2357,6 +2422,7 @@
       "id" :"999",
       "code": "06 gn 19, LM",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "Love Me" ,
           "en" : "",
@@ -2392,6 +2458,7 @@
       "id" :"999",
       "code": "18 tt 40, ☽",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "☽" ,
           "en" : "",
@@ -2426,6 +2493,7 @@
       "id" :"8",
       "code": "02 ex 11, AD",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "에이드" ,
           "en" : "",
@@ -2460,6 +2528,7 @@
       "id" :"999",
       "code": "14 nu 11, HL",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "화락영" ,
           "en" : "",
@@ -2494,6 +2563,7 @@
       "id" :"999",
       "code": "06 nu 11, DG",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "도리안 그레이" ,
           "en" : "",
@@ -2528,6 +2598,7 @@
       "id" :"999",
       "code": "04R nu 11, BH",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "바실리사 홀워드" ,
           "en" : "",
@@ -2562,6 +2633,7 @@
       "id" :"999",
       "code": "08 nu 11, HJ",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "헨리 지킬" ,
           "en" : "",
@@ -2595,6 +2667,7 @@
       "id" :"999",
       "code": "08R nu 95, AH",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "에드워드 하이드" ,
           "en" : "",
@@ -2628,6 +2701,7 @@
       "id" :"999",
       "code": "13 sg 22, CG",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "창귀" ,
           "en" : "",
@@ -2661,6 +2735,7 @@
       "id" :"1",
       "code": "20R lr 50, SO",
       "name": { 
+        "mainName" : "alias",
         "truename" :  {
           "ko" : "신에이드 오프타시아" ,
           "en" : "",
@@ -2695,6 +2770,7 @@
       "id" :"2",
       "code": "16 lr 50, SO",
       "name": { 
+        "mainName" : "alias",
         "truename" :  {
           "ko" : "신에이드 오프타시아" ,
           "en" : "",
@@ -2729,6 +2805,7 @@
       "id" :"3",
       "code": "17 lr 50, SO",
       "name": { 
+        "mainName" : "alias",
         "truename" :  {
           "ko" : "신에이드 오프타시아" ,
           "en" : "",
@@ -2763,6 +2840,7 @@
       "id" :"4",
       "code": "06 lr 50, SO",
       "name": { 
+        "mainName" : "alias",
         "truename" :  {
           "ko" : "신에이드 오프타시아" ,
           "en" : "",
@@ -2797,6 +2875,7 @@
       "id" :"5",
       "code": "09R lr 50, SO",
       "name": { 
+        "mainName" : "alias",
         "truename" :  {
           "ko" : "신에이드 오프타시아" ,
           "en" : "",
@@ -2831,8 +2910,9 @@
       "id" :"6",
       "code": "09 lr 50, SO",
       "name": { 
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "전뇌의 신에이드 오프타시아" ,
+          "ko" : "신에이드 오프타시아" ,
           "en" : "",
           "orilang" : "συνείδω ὀπτασία"
         },
@@ -2865,6 +2945,7 @@
       "id" :"",
       "code": "",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "세피어르 아인" ,
           "en" : "",
@@ -2898,6 +2979,7 @@
       "id" :"",
       "code": "",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "세피로트의 나무" ,
           "en" : "",
@@ -2931,6 +3013,7 @@
       "id" :"",
       "code": "",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "노에미 아쿠아" ,
           "en" : "",
@@ -2964,6 +3047,7 @@
       "id" :"",
       "code": "",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "" ,
           "en" : "",
@@ -2998,6 +3082,7 @@
       "id" :"",
       "code": "",
       "name": { 
+        "mainName" : "truename",
         "truename" :  {
           "ko" : "아센" ,
           "en" : "",
