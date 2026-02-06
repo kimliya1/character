@@ -189,7 +189,7 @@
         }
       },
       "arcana": "IX 은둔자",
-      "universe": [ "문학애들" ],
+      "universe": [ "책 속의 꿈" ],
       "alignment": "완전 중립",
       "imagecolor": "OPUS-1 AQUA",
       "imagecolorrgb": [ "0","247","255" ],
@@ -257,7 +257,7 @@
         }
       },
       "arcana": "XIX 태양",
-      "universe": [ "현대" ],
+      "universe": [ "월드 제로" ],
       "alignment": "질서 선",
       "imagecolor": "DEPTH TEAL",
       "imagecolorrgb": [ "15","154","175" ],
@@ -360,7 +360,7 @@
         }
       },
       "arcana": "XVI 탑",
-      "universe": [ "세계의 지평선", "현대" ],
+      "universe": [ "세계의 지평선", "월드 제로" ],
       "alignment": "혼돈 악",
       "imagecolor": "EMDERS RUBY",
       "imagecolorrgb": [ "121","7","19" ],
@@ -429,7 +429,7 @@
         }
       },
       "arcana": "XV 악마",
-      "universe": [ "현대" ],
+      "universe": [ "월드 제로" ],
       "alignment": "혼돈 중립",
       "imagecolor": "CADAVER DARK GRAY",
       "imagecolorrgb": [ "66","66","66" ],
@@ -463,7 +463,7 @@
         }
       },
       "arcana": "VIII 정의",
-      "universe": [ "마계", "외부", "현대" ],
+      "universe": [ "마계", "외부", "월드 제로" ],
       "alignment": "중립 선",
       "imagecolor": "BASKAINO RED",
       "imagecolorrgb": [ "79", "0", "0" ],
@@ -509,7 +509,7 @@
       "height": "85m (194cm)",
       "job": [ "스프레마 후작" ],
       "residence": "스프레마 저택",
-      "relationship" : { 
+      "relationship" : {
         "기타" : [  ]
       },
       "url" : "https://liya-universe.tistory.com/154"
@@ -531,7 +531,7 @@
         }
       },
       "arcana": "XIII 죽음",
-      "universe": [ "현대" ],
+      "universe": [ "월드 제로" ],
       "alignment": "혼돈 악",
       "imagecolor": "RECUBRIR ORANGE",
       "imagecolorrgb": [ "255","97","0" ],
@@ -599,7 +599,7 @@
         }
       },
       "arcana": "XV 악마",
-      "universe": [ "현대" ],
+      "universe": [ "월드 제로" ],
       "alignment": "질서 중립",
       "imagecolor": "ANTIQUE BLACK",
       "imagecolorrgb": [ "13","13","13" ],
@@ -667,7 +667,7 @@
         }
       },
       "arcana": "XIIR 사형수",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "중립 선",
       "imagecolor": "CARMI WHITE",
       "imagecolorrgb": [ "224","250","255" ],
@@ -701,7 +701,7 @@
         }
       },
       "arcana": "XX 심판",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "질서 선",
       "imagecolor": "BELOVED BROWN",
       "imagecolorrgb": [ "175","152","119" ],
@@ -769,7 +769,7 @@
         }
       },
       "arcana": "XX 심판",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "질서 중립",
       "imagecolor": "HUMANNUS RED",
       "imagecolorrgb": [ "221","39","3" ],
@@ -905,7 +905,7 @@
         }
       },
       "arcana": "XII 사형수",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "질서 중립",
       "imagecolor": "TRAR-DROP GREEN",
       "imagecolorrgb": [ "117","110","80" ],
@@ -1110,7 +1110,7 @@
         }
       },
       "arcana": "III 여제",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "질서 중립",
       "imagecolor": "BURGUNDY",
       "imagecolorrgb": [ "114","0","32" ],
@@ -1144,7 +1144,7 @@
         }
       },
       "arcana": "IV 황제",
-      "universe": [ "현대" ],
+      "universe": [ "월드 제로" ],
       "alignment": "혼돈 중립",
       "imagecolor": "RASARI WHITE",
       "imagecolorrgb": [ "223","238","255" ],
@@ -1212,7 +1212,7 @@
         }
       },
       "arcana": "VR 교황",
-      "universe": [ "외부", "신비의 종단", "현대" ],
+      "universe": [ "외부", "신비의 종단", "월드 제로" ],
       "alignment": "혼돈 중립",
       "imagecolor": "SWEVEN WHITE",
       "imagecolorrgb": [ "230","247","255" ],
@@ -1246,7 +1246,7 @@
         }
       },
       "arcana": "V 교황",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "질서 선",
       "imagecolor": "KOINONIKOS YELLOW",
       "imagecolorrgb": [ "255","241","213" ],
@@ -1280,7 +1280,7 @@
         }
       },
       "arcana": "VII 전차",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "혼돈 중립",
       "imagecolor": "DICE-WITH-DEATH ORANGE",
       "imagecolorrgb": [ "","","" ],
@@ -1314,7 +1314,7 @@
         }
       },
       "arcana": "X 운명의 바퀴",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "중립 선",
       "imagecolor": "HIT-AND-MISS GREEN",
       "imagecolorrgb": [ "207","242","194" ],
@@ -1348,7 +1348,7 @@
         }
       },
       "arcana": "XI 힘",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "혼돈 중립",
       "imagecolor": "KISS-UP-KICK-DOWN RED",
       "imagecolorrgb": [ "","","" ],
@@ -1486,7 +1486,7 @@
         }
       },
       "arcana": "I 마술사",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "질서 선",
       "imagecolor": "SPELL PINK",
       "imagecolorrgb": [ "","","" ],
@@ -1520,7 +1520,7 @@
         }
       },
       "arcana": "II 여교황",
-      "universe": [ "현대", "외부" ],
+      "universe": [ "월드 제로", "외부" ],
       "alignment": "질서 중립",
       "imagecolor": "BLURRED LIME",
       "imagecolorrgb": [ "","","" ],
@@ -1623,7 +1623,7 @@
         }
       },
       "arcana": "XIV 절제",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "질서 선",
       "imagecolor": "ENFILAR GREEN",
       "imagecolorrgb": [ "207","225","199" ],
@@ -1657,7 +1657,7 @@
         }
       },
       "arcana": "XV 악마",
-      "universe": [ "세계의 지평선", "현대" ],
+      "universe": [ "세계의 지평선", "월드 제로" ],
       "alignment": "중립 악",
       "imagecolor": "IMITATE WHTIE",
       "imagecolorrgb": [ "","","" ],
@@ -1692,7 +1692,7 @@
         }
       },
       "arcana": "XIR 힘",
-      "universe": [ "세계의 지평선", "현대" ],
+      "universe": [ "세계의 지평선", "월드 제로" ],
       "alignment": "중립 악",
       "imagecolor": "",
       "imagecolorrgb": [ "","","" ],
@@ -1726,7 +1726,7 @@
         }
       },
       "arcana": "X 운명의 바퀴",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "혼돈 선",
       "imagecolor": "ERSATZ VIOLET",
       "imagecolorrgb": [ "","","" ],
@@ -1794,7 +1794,7 @@
         }
       },
       "arcana": "IX 은둔자",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "질서 중립",
       "imagecolor": "CONCEAL DARK GREEN",
       "imagecolorrgb": [ "","","" ],
@@ -1998,7 +1998,7 @@
         }
       },
       "arcana": "XIVR 절제",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "중립 악",
       "imagecolor": "SPURIOUS VIOLET",
       "imagecolorrgb": [ "","","" ],
@@ -2032,7 +2032,7 @@
         }
       },
       "arcana": "X 운명의 바퀴",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "혼돈 중립",
       "imagecolor": "ZELOS GREEN",
       "imagecolorrgb": [ "","","" ],
@@ -2066,7 +2066,7 @@
         }
       },
       "arcana": "XVIII 달",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "혼돈 선",
       "imagecolor": "FLIEHEN NAVY",
       "imagecolorrgb": [ "","","" ],
@@ -2134,7 +2134,7 @@
         }
       },
       "arcana": "XIV 절제",
-      "universe": [ "현대", "외부" ],
+      "universe": [ "월드 제로", "외부" ],
       "alignment": "질서 선",
       "imagecolor": "",
       "imagecolorrgb": [ "","","" ],
@@ -2202,7 +2202,7 @@
         }
       },
       "arcana": "III 여제",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "중립 선",
       "imagecolor": "NEVERO BLACK",
       "imagecolorrgb": [ "","","" ],
@@ -2236,7 +2236,7 @@
         }
       },
       "arcana": "XIII 죽음",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "혼돈 악",
       "imagecolor": "IMITADOR GOLD",
       "imagecolorrgb": [ "255","204","67" ],
@@ -2270,7 +2270,7 @@
         }
       },
       "arcana": "XVII 별",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "질서 악",
       "imagecolor": "BURNT-MARK BLUE GREEN",
       "imagecolorrgb": [ "","","" ],
@@ -2339,7 +2339,7 @@
         }
       },
       "arcana": "I 마술사",
-      "universe": [ "현대" ],
+      "universe": [ "월드 제로" ],
       "alignment": "혼돈 중립",
       "imagecolor": "ALTER BLACK",
       "imagecolorrgb": [ "","","" ],
@@ -2407,7 +2407,7 @@
         }
       },
       "arcana": "VI 연인",
-      "universe": [ "현대", "외부" ],
+      "universe": [ "월드 제로", "외부" ],
       "alignment": "혼돈 악",
       "imagecolor": "MEDUSA GREEN",
       "imagecolorrgb": [ "188","249","94" ],
@@ -2511,7 +2511,7 @@
         }
       },
       "arcana": "XIV 절제",
-      "universe": [ "외부", "현대" ],
+      "universe": [ "외부", "월드 제로" ],
       "alignment": "질서 선",
       "imagecolor": "",
       "imagecolorrgb": [ "","","" ],
@@ -2545,7 +2545,7 @@
         }
       },
       "arcana": "VI 연인",
-      "universe": [ "문학애들" ],
+      "universe": [ "책 속의 꿈" ],
       "alignment": "혼돈 중립",
       "imagecolor": "NARCISSISM PRIMROSE",
       "imagecolorrgb": [ "255","238","218" ],
@@ -2579,7 +2579,7 @@
         }
       },
       "arcana": "IVR 황제",
-      "universe": [ "문학애들" ],
+      "universe": [ "책 속의 꿈" ],
       "alignment": "혼돈 중립",
       "imagecolor": "",
       "imagecolorrgb": [ "","","" ],
@@ -2613,7 +2613,7 @@
         }
       },
       "arcana": "VIII 정의",
-      "universe": [ "문학애들" ],
+      "universe": [ "책 속의 꿈" ],
       "alignment": "질서 선",
       "imagecolor": "TWO-FOLD RED",
       "imagecolorrgb": [ "128","0","0" ],
@@ -2647,7 +2647,7 @@
         }
       },
       "arcana": "VIIIR 정의",
-      "universe": [ "문학애들" ],
+      "universe": [ "책 속의 꿈" ],
       "alignment": "혼돈 악",
       "imagecolor": "TWO-FOLD RED",
       "imagecolorrgb": [ "128","0","0" ],
@@ -2681,7 +2681,7 @@
         }
       },
       "arcana": "XIII 죽음",
-      "universe": [ "세계의 지평선", "현대" ],
+      "universe": [ "세계의 지평선", "월드 제로" ],
       "alignment": "혼돈 선",
       "imagecolor": "",
       "imagecolorrgb": [ "0","0","0" ],
@@ -3027,7 +3027,7 @@
         }
       },
       "arcana": "",
-      "universe": [ "현대" ],
+      "universe": [ "월드 제로" ],
       "alignment": "",
       "imagecolor": "",
       "imagecolorrgb": [ "","","" ],
@@ -3061,7 +3061,7 @@
         }
       },
       "arcana": "",
-      "universe": [ "현대" ],
+      "universe": [ "월드 제로" ],
       "alignment": "",
       "imagecolor": "",
       "imagecolorrgb": [ "","","" ],
