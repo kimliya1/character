@@ -360,7 +360,7 @@
         }
       },
       "arcana": "XVI 탑",
-      "universe": [ "세계의 지평선", "월드 제로" ],
+      "universe": [ "세계의 지평선", "월드 제로", "달의 이면" ],
       "alignment": "혼돈 악",
       "imagecolor": "EMDERS RUBY",
       "imagecolorrgb": [ "121","7","19" ],
@@ -1348,7 +1348,7 @@
         }
       },
       "arcana": "XI 힘",
-      "universe": [ "외부", "월드 제로" ],
+      "universe": [ "외부", "월드 제로", "달의 이면" ],
       "alignment": "혼돈 중립",
       "imagecolor": "KISS-UP-KICK-DOWN RED",
       "imagecolorrgb": [ "","","" ],
@@ -1417,7 +1417,7 @@
         }
       },
       "arcana": "XVIII 달",
-      "universe": [ "외부", "세계의 지평선" ],
+      "universe": [ "외부", "세계의 지평선", "달의 이면" ],
       "alignment": "혼돈 선",
       "imagecolor": "ACE-DEUCE GREEN",
       "imagecolorrgb": [ "15","59","47" ],
@@ -1588,7 +1588,7 @@
         }
       },
       "arcana": "XI 힘",
-      "universe": [ "마계", "외부" ],
+      "universe": [ "마계", "외부", "달의 이면" ],
       "alignment": "혼돈 악",
       "imagecolor": "ONE-SIDE PURPLE",
       "imagecolorrgb": [ "","","" ],
@@ -1657,7 +1657,7 @@
         }
       },
       "arcana": "XV 악마",
-      "universe": [ "세계의 지평선", "월드 제로" ],
+      "universe": [ "세계의 지평선", "월드 제로", "달의 이면" ],
       "alignment": "중립 악",
       "imagecolor": "IMITATE WHTIE",
       "imagecolorrgb": [ "","","" ],
@@ -1692,7 +1692,7 @@
         }
       },
       "arcana": "XIR 힘",
-      "universe": [ "세계의 지평선", "월드 제로" ],
+      "universe": [ "세계의 지평선", "월드 제로", "달의 이면" ],
       "alignment": "중립 악",
       "imagecolor": "",
       "imagecolorrgb": [ "","","" ],
@@ -2236,7 +2236,7 @@
         }
       },
       "arcana": "XIII 죽음",
-      "universe": [ "외부", "월드 제로" ],
+      "universe": [ "외부", "월드 제로", "달의 이면" ],
       "alignment": "혼돈 악",
       "imagecolor": "IMITADOR GOLD",
       "imagecolorrgb": [ "255","204","67" ],
@@ -2270,7 +2270,7 @@
         }
       },
       "arcana": "XVII 별",
-      "universe": [ "외부", "월드 제로" ],
+      "universe": [ "외부", "월드 제로", "달의 이면" ],
       "alignment": "질서 악",
       "imagecolor": "BURNT-MARK BLUE GREEN",
       "imagecolorrgb": [ "","","" ],
@@ -2407,7 +2407,7 @@
         }
       },
       "arcana": "VI 연인",
-      "universe": [ "월드 제로", "외부" ],
+      "universe": [ "월드 제로", "외부", "달의 이면" ],
       "alignment": "혼돈 악",
       "imagecolor": "MEDUSA GREEN",
       "imagecolorrgb": [ "188","249","94" ],
