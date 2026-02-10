@@ -2334,7 +2334,7 @@
         },
         "alias" : {
           "ko" : "Dr. Jin",
-          "en" : "",
+          "en" : "Dr. Jin",
           "orilang" : ""
         }
       },
@@ -2397,7 +2397,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "Love Me" ,
-          "en" : "",
+          "en" : "Love Me",
           "orilang" : ""
         },
         "alias" : {
