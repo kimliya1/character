@@ -41,7 +41,7 @@
       "name": { 
         "mainName" : "alias",
         "truename" :  {
-          "ko" : "-" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
@@ -176,7 +176,7 @@
       "id" :"999",
       "code": "09 nu 95, DG",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
           "ko" : "미케네 그레이",
           "en" : "Mycenae Gray",
@@ -419,7 +419,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "디세카 디프루토" ,
-          "en" : "",
+          "en" : "Diseca Disfruto",
           "orilang" : ""
         },
         "alias" : {
@@ -487,7 +487,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "레툼 프리드리히 듈 스프레마" ,
-          "en" : "",
+          "en" : "Laetum Friederich Duel Suprema",
           "orilang" : ""
         },
         "alias" : {
@@ -505,7 +505,7 @@
       "sex": "무성",
       "species": "드래곤",
       "detailedspecies": "적룡",
-      "birth": "불명 (7월 23일)",
+      "birth": "불명",
       "height": "85m (194cm)",
       "job": [ "스프레마 후작" ],
       "residence": "스프레마 저택",
@@ -554,13 +554,13 @@
       "name": { 
         "mainName" : "truename",
         "truename" :  {
-          "ko" : "루메" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "루메",
+          "en" : "Rume",
           "orilang" : ""
         }
       },
@@ -589,8 +589,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "류단영" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Ryu Danyeong",
+          "orilang" : "柳柍㣋"
         },
         "alias" : {
           "ko" : "",
@@ -623,7 +623,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "르네나" ,
-          "en" : "",
+          "en" : "Renena",
           "orilang" : ""
         },
         "alias" : {
@@ -657,7 +657,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "리헬 아센" ,
-          "en" : "",
+          "en" : "Rihel Asen",
           "orilang" : ""
         },
         "alias" : {
@@ -680,7 +680,7 @@
       "job": [ "경호원" ],
       "residence": "",
       "relationship" : { 
-        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ]
+        "아센 일가" : [ "에스텔 아센", "쿠샤엘", "리헬 아센", "아렐 아센" ]
       },
       "url" : "https://liya-universe.tistory.com/140"
     },
@@ -725,7 +725,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "베리아 스도리다 듈 베아투스" ,
-          "en" : "",
+          "en" : "Veria Sdorida Duel Beatus",
           "orilang" : ""
         },
         "alias" : {
@@ -793,7 +793,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "비나리" ,
-          "en" : "",
+          "en" : "Bynari",
           "orilang" : ""
         },
         "alias" : {
@@ -827,7 +827,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "비엘라 알페라츠" ,
-          "en" : "",
+          "en" : "Biela Alpheratz",
           "orilang" : ""
         },
         "alias" : {
@@ -858,15 +858,15 @@
       "id" :"999",
       "code": "12 ad 11, SL",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "세미루나" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "세미루나",
+          "en" : "Semiluna",
           "orilang" : ""
         }
       },
@@ -928,13 +928,13 @@
       "name": { 
         "mainName" : "truename",
         "truename" :  {
-          "ko" : "세키" ,
-          "en" : "",
+          "ko" : "비엘라 시무" ,
+          "en" : "Biela Shimu",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "세키",
+          "en" : "Secchi",
           "orilang" : ""
         }
       },
@@ -963,7 +963,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "슬린" ,
-          "en" : "",
+          "en" : "syn",
           "orilang" : ""
         },
         "alias" : {
@@ -998,8 +998,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "류" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Ryu",
+          "orilang" : "麍"
         },
         "alias" : {
           "ko" : "",
@@ -1032,7 +1032,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "아니마 W 아네모스" ,
-          "en" : "",
+          "en" : "Anima W Anemos",
           "orilang" : ""
         },
         "alias" : {
@@ -1066,7 +1066,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "아니마 펜나" ,
-          "en" : "",
+          "en" : "Anima Penna",
           "orilang" : ""
         },
         "alias" : {
@@ -1100,8 +1100,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "아라키 사쿠라" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Araki Sakura",
+          "orilang" : "荒木 桜"
         },
         "alias" : {
           "ko" : "",
@@ -1134,7 +1134,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "아렐 아센" ,
-          "en" : "",
+          "en" : "Arel Asen",
           "orilang" : ""
         },
         "alias" : {
@@ -1157,7 +1157,7 @@
       "job": [ "시나리오 작가" ],
       "residence": "",
       "relationship" : { 
-        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ]
+        "아센 일가" : [ "에스텔 아센", "쿠샤엘", "리헬 아센", "아렐 아센" ]
       },
       "url" : "https://liya-universe.tistory.com/141"
     },
@@ -1236,7 +1236,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "아페란토스 아가파오" ,
-          "en" : "",
+          "en" : "Aperantos Agapao",
           "orilang" : ""
         },
         "alias" : {
@@ -1339,7 +1339,7 @@
         "truename" :  {
           "ko" : "알탄 모너허이" ,
           "en" : "Altan Muunohoi",
-          "orilang" : ""
+          "orilang" : "Алтан Муунохой"
         },
         "alias" : {
           "ko" : "",
@@ -1412,8 +1412,8 @@
         },
         "alias" : {
           "ko" : "야차",
-          "en" : "",
-          "orilang" : ""
+          "en" : "Yacha",
+          "orilang" : "夜叉"
         }
       },
       "arcana": "XVIII 달",
@@ -1476,8 +1476,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "우련아" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Uryeona",
+          "orilang" : "禹連芽"
         },
         "alias" : {
           "ko" : "",
@@ -1510,7 +1510,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "우선아" ,
-          "en" : "Woo Seona",
+          "en" : "Useona",
           "orilang" : "禹善芽"
         },
         "alias" : {
@@ -1541,15 +1541,15 @@
       "id" :"999",
       "code": "22 ad 11, IN",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "이니마" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "이니마",
+          "en" : "Inima",
           "orilang" : ""
         }
       },
@@ -1575,16 +1575,16 @@
       "id" :"999",
       "code": "11 ma.gn 21, YJ",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "유지희" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
-          "orilang" : ""
+          "ko" : "유지희",
+          "en" : "Yu Ji-hui",
+          "orilang" : "劉知希"
         }
       },
       "arcana": "XI 힘",
@@ -1613,8 +1613,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "이아윤" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Lee Ayun",
+          "orilang" : "異雅胤"
         },
         "alias" : {
           "ko" : "",
@@ -1652,7 +1652,7 @@
         },
         "alias" : {
           "ko" : "장산범",
-          "en" : "",
+          "en" : "Jangsanbeom",
           "orilang" : ""
         }
       },
@@ -1682,8 +1682,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "쟈오유첸",
-          "en" : "",
-          "orilang" : ""
+          "en" : "Zhao Yuqian",
+          "orilang" : "沼御前"
         },
         "alias" : {
           "ko" : "",
@@ -1747,15 +1747,15 @@
       "id" :"999",
       "code": "07 ad 11, CC",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "차르칸" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "차르칸",
+          "en" : "Cearcan",
           "orilang" : ""
         }
       },
@@ -1785,7 +1785,7 @@
         "truename" :  {
           "ko" : "최우행" ,
           "en" : "Choe Uhaeng",
-          "orilang" : ""
+          "orilang" : "崔優幸"
         },
         "alias" : {
           "ko" : "",
@@ -1849,15 +1849,15 @@
       "id" :"999",
       "code": "05 ad 11, CU",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "코르체" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "코르체",
+          "en" : "Cruce",
           "orilang" : ""
         }
       },
@@ -1867,7 +1867,7 @@
       "imagecolor": "",
       "imagecolorrgb": [ "","","" ],
       "age": "",
-      "sex": "",
+      "sex": "여성",
       "species": "인류",
       "detailedspecies": "인간",
       "birth": "",
@@ -1917,15 +1917,15 @@
       "id" :"999",
       "code": "17 ad 11, TF",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "트레포이" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "트레포이",
+          "en" : "Trifoi",
           "orilang" : ""
         }
       },
@@ -1951,15 +1951,15 @@
       "id" :"999",
       "code": "04 ad 11, TI",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "트리움" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "트리움",
+          "en" : "Thiunghi",
           "orilang" : ""
         }
       },
@@ -2022,8 +2022,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "플로 아리비테르" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Phlo Ariviter",
+          "orilang" : "Φλο Αριβιτέρ"
         },
         "alias" : {
           "ko" : "",
@@ -2053,15 +2053,15 @@
       "id" :"999",
       "code": "18 nu 93, AG",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "핀스터 아우겐" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "핀스터 아우겐",
+          "en" : "Finster Augen",
           "orilang" : ""
         }
       },
@@ -2090,8 +2090,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "하누만" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Hanuman",
+          "orilang" : "हनुमान्"
         },
         "alias" : {
           "ko" : "",
@@ -2124,7 +2124,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "하일드 잭" ,
-          "en" : "",
+          "en" : "Heild Jack",
           "orilang" : ""
         },
         "alias" : {
@@ -2192,8 +2192,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "헤이화" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Heihua",
+          "orilang" : "黑花"
         },
         "alias" : {
           "ko" : "",
@@ -2223,16 +2223,16 @@
       "id" :"999",
       "code": "13 gn 90, HW",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "화" ,
+          "ko" : "",
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
-          "orilang" : ""
+          "ko" : "화" ,
+          "en" : "Hwa",
+          "orilang" : "華"
         }
       },
       "arcana": "XIII 죽음",
@@ -2301,7 +2301,7 @@
         "alias" : {
           "ko" : "히프노스",
           "en" : "Hypnos",
-          "orilang" : ""
+          "orilang" : "Ὕπνος"
         }
       },
       "arcana": "XII 사형수",
@@ -2326,14 +2326,14 @@
       "id" :"999",
       "code": "01 nu 11, DJ",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "Dr. Jin" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
+          "ko" : "Dr. Jin",
           "en" : "",
           "orilang" : ""
         }
@@ -2360,15 +2360,15 @@
       "id" :"999",
       "code": "02 nu 11, JN",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "Jin" ,
-          "en" : "",
+          "ko" : "제니 실렌다 니그란스" ,
+          "en" : "Jennie Slienda Nigrans",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
+          "ko" : "진",
+          "en" : "Jin",
           "orilang" : ""
         }
       },
@@ -2501,8 +2501,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "화락영" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Hwarakyeong",
+          "orilang" : "和樂榮"
         },
         "alias" : {
           "ko" : "",
@@ -2534,8 +2534,8 @@
       "name": { 
         "mainName" : "truename",
         "truename" :  {
-          "ko" : "도리안 그레이" ,
-          "en" : "",
+          "ko" : "도리안 그레이",
+          "en" : "Dorian Gray",
           "orilang" : ""
         },
         "alias" : {
@@ -2569,7 +2569,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "바실리사 홀워드" ,
-          "en" : "",
+          "en" : "Basilissa Hallward",
           "orilang" : ""
         },
         "alias" : {
@@ -2603,7 +2603,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "헨리 지킬" ,
-          "en" : "",
+          "en" : "Henry Jekyll",
           "orilang" : ""
         },
         "alias" : {
@@ -2637,7 +2637,7 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "에드워드 하이드" ,
-          "en" : "",
+          "en" : "Edward Hyde",
           "orilang" : ""
         },
         "alias" : {
@@ -2668,16 +2668,16 @@
       "id" :"999",
       "code": "13 sg 22, CG",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
-          "ko" : "창귀" ,
+          "ko" : "" ,
           "en" : "",
           "orilang" : ""
         },
         "alias" : {
-          "ko" : "",
-          "en" : "",
-          "orilang" : ""
+          "ko" : "창귀" ,
+          "en" : "Changgui",
+          "orilang" : "倀鬼"
         }
       },
       "arcana": "XIII 죽음",
@@ -2710,7 +2710,7 @@
         },
         "alias" : {
           "ko" : "하얀 신에이드 오프타시아",
-          "en" : "",
+          "en" : "Aspro Syneido Optasia",
           "orilang" : "άσπρο συνείδω ὀπτασία"
         }
       },
@@ -2745,7 +2745,7 @@
         },
         "alias" : {
           "ko" : "세번째 신에이드 오프타시아",
-          "en" : "",
+          "en" : "Tris Syneido Optasia",
           "orilang" : "τρίς συνείδω ὀπτασία"
         }
       },
@@ -2780,7 +2780,7 @@
         },
         "alias" : {
           "ko" : "어린 신에이드 오프타시아",
-          "en" : "",
+          "en" : "Nepion Syneido Optasia",
           "orilang" : "νήπιον συνείδω ὀπτασία"
         }
       },
@@ -2815,7 +2815,7 @@
         },
         "alias" : {
           "ko" : "애정과 사랑의 신에이드 오프타시아",
-          "en" : "",
+          "en" : "Philon Syneido Optasia",
           "orilang" : "φῐ́λον συνείδω ὀπτασία"
         }
       },
@@ -2850,7 +2850,7 @@
         },
         "alias" : {
           "ko" : "전뇌의 신에이드 오프타시아",
-          "en" : "",
+          "en" : "Diadiktyo Syneido Optasia",
           "orilang" : "Διαδίκτυο συνείδω ὀπτασία"
         }
       },
@@ -2885,7 +2885,7 @@
         },
         "alias" : {
           "ko" : "하얀 전뇌의 신에이드 오프타시아",
-          "en" : "",
+          "en" : "Aspro Diadiktyo Syneido Optasia",
           "orilang" : "άσπρο Διαδίκτυο συνείδω ὀπτασία"
         }
       },
@@ -2915,8 +2915,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "세피어르 아인" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Sephir Ain",
+          "orilang" : "セフィアル アイン"
         },
         "alias" : {
           "ko" : "",
@@ -2925,7 +2925,7 @@
         }
       },
       "arcana": "",
-      "universe": [ "외부" ],
+      "universe": [ "Fate" ],
       "alignment": "",
       "imagecolor": "",
       "imagecolorrgb": [ "","","" ],
@@ -2949,8 +2949,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "세피로트의 나무" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "The Tree of Sephiroth",
+          "orilang" : "עץ הספירות"
         },
         "alias" : {
           "ko" : "",
@@ -2959,7 +2959,7 @@
         }
       },
       "arcana": "",
-      "universe": [ "외부" ],
+      "universe": [ "Fate" ],
       "alignment": "",
       "imagecolor": "",
       "imagecolorrgb": [ "","","" ],
@@ -2983,8 +2983,8 @@
         "mainName" : "truename",
         "truename" :  {
           "ko" : "노에미 아쿠아" ,
-          "en" : "",
-          "orilang" : ""
+          "en" : "Noemie Aqua",
+          "orilang" : "Noémie Aqua"
         },
         "alias" : {
           "ko" : "",
@@ -2993,7 +2993,7 @@
         }
       },
       "arcana": "",
-      "universe": [ "외부" ],
+      "universe": [ "Fate" ],
       "alignment": "",
       "imagecolor": "",
       "imagecolorrgb": [ "","","" ],
@@ -3016,8 +3016,8 @@
       "name": { 
         "mainName" : "truename",
         "truename" :  {
-          "ko" : "" ,
-          "en" : "",
+          "ko" : "쿠샤엘" ,
+          "en" : "Kushiel",
           "orilang" : ""
         },
         "alias" : {
@@ -3040,7 +3040,7 @@
       "job": [ "연옥의 간수" ],
       "residence": "",
       "relationship" : { 
-        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ]
+        "아센 일가" : [ "에스텔 아센", "쿠샤엘", "리헬 아센", "아렐 아센" ]
       },
       "url" : ""
     },
@@ -3050,8 +3050,8 @@
       "name": { 
         "mainName" : "truename",
         "truename" :  {
-          "ko" : "아센" ,
-          "en" : "",
+          "ko" : "에스텔 아센" ,
+          "en" : "Estelle Asen",
           "orilang" : ""
         },
         "alias" : {
@@ -3074,7 +3074,7 @@
       "job": [ "배우" ],
       "residence": "",
       "relationship" : { 
-        "아센 일가" : [ "", "", "리헬 아센", "아렐 아센" ]
+        "아센 일가" : [ "에스텔 아센", "쿠샤엘", "리헬 아센", "아렐 아센" ]
       },
       "url" : ""
     }
