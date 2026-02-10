@@ -552,7 +552,7 @@
       "id" :"999",
       "code": "01 ad 11, RM",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
           "ko" : "" ,
           "en" : "",
@@ -926,7 +926,7 @@
       "id" :"999",
       "code": "21 ch 20, SC",
       "name": { 
-        "mainName" : "truename",
+        "mainName" : "alias",
         "truename" :  {
           "ko" : "비엘라 시무" ,
           "en" : "Biela Shimu",
